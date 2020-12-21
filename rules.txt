@@ -36,3 +36,5 @@ abema.tv
 abcnews.go.com
 bbc.com
 cnn.com
+disney.com
+hbo.com
