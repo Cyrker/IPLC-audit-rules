@@ -21,3 +21,13 @@ regexp:(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
 
 # 外汇
 regexp:(.*.||)(metatrader4|metatrader5|mql5).(org|com|net)
+
+#视频
+youtube.com
+netflix.com
+vimeo.com
+dailymotion.com
+hulu.com
+liveleak.com
+vine.co
+twitch.tv
