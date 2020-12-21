@@ -38,3 +38,4 @@ bbc.com
 cnn.com
 disney.com
 hbo.com
+tvb.com
