@@ -42,3 +42,4 @@ cnn.com
 disney.com
 hbo.com
 tvb.com
+twitch.tv
