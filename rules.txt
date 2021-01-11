@@ -43,3 +43,4 @@ disney.com
 hbo.com
 tvb.com
 twitch.tv
+youtu.be
